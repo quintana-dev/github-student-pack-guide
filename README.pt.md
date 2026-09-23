@@ -40,108 +40,108 @@ Qualquer estudante com mais de 13 anos matriculado em um curso de graduação ou
 ---
 
 ## 2. Ferramentas do GitHub e Git
-- **GitHub Pro:** Acesso gratuito ao GitHub Pro enquanto você for um estudante.
-- **GitHub Copilot:** O GitHub Copilot Student está disponível para estudantes verificados. Inclui preenchimentos ilimitados de código, créditos de IA, chat e agentes.
-- **GitHub Codespaces:** Acesso gratuito de nível Pro para criar ambientes de desenvolvimento seguros e dedicados diretamente no seu navegador.
-- **GitHub Pages:** Um site por conta e organização e sites de projetos ilimitados. Hospede sites estáticos direto do seu repositório.
-- **GitHub Desktop:** Ferramenta de código aberto do GitHub, gratuita para todos, tornando os fluxos de trabalho do Git muito mais acessíveis.
-- **GitKraken:** O cliente de desktop Git mais popular. Integração profunda com o GitHub. Plano Estudante: Grátis por 6 meses e até 80% de desconto depois.
-- **GitLens:** A extensão nº 1 do Git para o VS Code. Plano de Estudante GitKraken grátis por 6 meses.
-- **Tower:** Cliente Git nativo para Mac e Windows. Licença Pro gratuita enquanto for estudante.
-- **WorkingCopy:** Poderoso cliente Git para iPhone e iPad. Todos os recursos Pro gratuitos enquanto for estudante.
-- **Codecov:** Ferramenta para implementar cobertura de código. Acesso gratuito em repositórios públicos e privados.
+- **[GitHub Pro](https://github.com/pro):** Acesso gratuito ao GitHub Pro enquanto você for um estudante.
+- **[GitHub Copilot](https://github.com/features/copilot):** O GitHub Copilot Student está disponível para estudantes verificados. Inclui preenchimentos ilimitados de código, créditos de IA, chat e agentes.
+- **[GitHub Codespaces](https://github.com/features/codespaces):** Acesso gratuito de nível Pro para criar ambientes de desenvolvimento seguros e dedicados diretamente no seu navegador.
+- **[GitHub Pages](https://pages.github.com):** Um site por conta e organização e sites de projetos ilimitados. Hospede sites estáticos direto do seu repositório.
+- **[GitHub Desktop](https://desktop.github.com):** Ferramenta de código aberto do GitHub, gratuita para todos, tornando os fluxos de trabalho do Git muito mais acessíveis.
+- **[GitKraken](https://www.gitkraken.com):** O cliente de desktop Git mais popular. Integração profunda com o GitHub. Plano Estudante: Grátis por 6 meses e até 80% de desconto depois.
+- **[GitLens](https://gitkraken.com/gitlens):** A extensão nº 1 do Git para o VS Code. Plano de Estudante GitKraken grátis por 6 meses.
+- **[Tower](https://www.git-tower.com):** Cliente Git nativo para Mac e Windows. Licença Pro gratuita enquanto for estudante.
+- **[WorkingCopy](https://workingcopy.app):** Poderoso cliente Git para iPhone e iPad. Todos os recursos Pro gratuitos enquanto for estudante.
+- **[Codecov](https://about.codecov.io):** Ferramenta para implementar cobertura de código. Acesso gratuito em repositorios públicos e privados.
 
 ## 3. Cloud, Hosting e Infraestrutura
-- **Microsoft Azure:** Acesso gratuito a mais de 25 serviços em nuvem + `$100` em créditos Azure. Para estudantes maiores de 18 anos.
-- **Microsoft Azure (13 a 17 anos):** Acesso a serviços selecionados, como App Services, Functions e MySQL, sem necessidade de cartão de crédito.
-- **Heroku:** Plataforma flexível e fácil de usar para implantar aplicativos. Aproveite um crédito de `$13` mensais por 24 meses.
-- **Appwrite:** Plataforma de infraestrutura de back-end de código aberto. Acesso gratuito ao plano Education.
-- **LocalStack:** Emula serviços AWS diretamente em seu laptop. Licença gratuita para um ambiente de nuvem pronto para uso.
-- **Pageclip:** Servidor para sites estáticos e formulários HTML. Plano básico gratuito enquanto você for um estudante.
-- **Travis CI:** Plataforma de integração contínua. Builds privados gratuitos enquanto você for estudante.
-- **Zyte:** Plataforma em nuvem para web crawlers. 1 Unidade Gratuita para Sempre (Scrapy Cloud).
+- **[Microsoft Azure](https://azure.microsoft.com):** Acesso gratuito a mais de 25 serviços em nuvem + `$100` em créditos Azure. Para estudantes maiores de 18 anos.
+- **[Microsoft Azure (13 a 17 anos)](https://azure.microsoft.com):** Acesso a serviços selecionados, como App Services, Functions e MySQL, sem necessidade de cartão de crédito.
+- **[Heroku](https://www.heroku.com):** Plataforma flexível e fácil de usar para implantar aplicativos. Aproveite um crédito de `$13` mensais por 24 meses.
+- **[Appwrite](https://appwrite.io):** Plataforma de infraestrutura de back-end de código aberto. Acesso gratuito ao plano Education.
+- **[LocalStack](https://localstack.cloud):** Emula serviços AWS diretamente em seu laptop. Licença gratuita para um ambiente de nuvem pronto para uso.
+- **[Pageclip](https://pageclip.co):** Servidor para sites estáticos e formulários HTML. Plano básico gratuito enquanto você for um estudante.
+- **[Travis CI](https://travis-ci.com):** Plataforma de integração contínua. Builds privados gratuitos enquanto você for estudante.
+- **[Zyte](https://www.zyte.com):** Plataforma em nuvem para web crawlers. 1 Unidade Gratuita para Sempre (Scrapy Cloud).
 
 ## 4. Domínios e Presença Web
-- **Namecheap:** 1 ano de registro de domínio gratuito no TLD `.me`, mais 1 certificado SSL gratuito por 1 ano.
-- **Name.com:** Domínio gratuito (ex: `.live`, `.software`, `.dev`) mais proteção de privacidade Advanced Security.
-- **.TECH:** Um domínio padrão `.TECH` gratuito por 1 ano.
+- **[Namecheap](https://www.namecheap.com):** 1 ano de registro de domínio gratuito no TLD `.me`, mais 1 certificado SSL gratuito por 1 ano.
+- **[Name.com](https://www.name.com):** Domínio gratuito (ex: `.live`, `.software`, `.dev`) mais proteção de privacidade Advanced Security.
+- **[.TECH](https://get.tech):** Um domínio padrão `.TECH` gratuito por 1 ano.
 
 ## 5. IDEs e Editores de Código
-- **JetBrains:** Uma assinatura educacional gratuita para **todas** as IDEs profissionais de desktop (IntelliJ IDEA, PyCharm, WebStorm, etc.), a ser renovada anualmente.
-- **Visual Studio Code:** Pacotes de codificação da Microsoft para fazer download de tudo o que você precisa para começar em Java, Python ou .NET.
-- **Bootstrap Studio:** Poderoso aplicativo de desktop para criar sites responsivos. Licença gratuita enquanto for estudante.
-- **Xojo:** Ferramenta de desenvolvimento multiplataforma. Licença Xojo Pro gratuita enquanto for estudante.
-- **SQLGate:** IDE simples, mas poderosa, para vários bancos de dados SQL. Acesso por 1 ano.
+- **[JetBrains](https://www.jetbrains.com):** Uma assinatura educacional gratuita para **todas** as IDEs profissionais de desktop (IntelliJ IDEA, PyCharm, WebStorm, etc.), a ser renovada anualmente.
+- **[Visual Studio Code](https://code.visualstudio.com):** Pacotes de codificação da Microsoft para fazer download de tudo o que você precisa para começar em Java, Python ou .NET.
+- **[Bootstrap Studio](https://bootstrapstudio.io):** Poderoso aplicativo de desktop para criar sites responsivos. Licença gratuita enquanto for estudante.
+- **[Xojo](https://www.xojo.com):** Ferramenta de desenvolvimento multiplataforma. Licença Xojo Pro gratuita enquanto for estudante.
+- **[SQLGate](https://www.sqlgate.com):** IDE simples, mas poderosa, para vários bancos de dados SQL. Acesso por 1 ano.
 
 ## 6. Bancos de Dados e Análise de Dados
-- **MongoDB:** `$50` em créditos do MongoDB Atlas, além de acesso ao Compass e à MongoDB University (certificação gratuita).
-- **Deepnote:** Novo tipo de notebook de dados criado para colaboração. Uso gratuito do plano Team.
-- **PopSQL:** Editor SQL moderno e colaborativo. Assinatura Premium gratuita enquanto for estudante.
-- **CARTO:** Plataforma para análise e visualização de dados espaciais. Atualizações de conta e recursos premium gratuitos por 2 anos.
+- **[MongoDB](https://www.mongodb.com):** `$50` em créditos do MongoDB Atlas, além de acesso ao Compass e à MongoDB University (certificação gratuita).
+- **[Deepnote](https://deepnote.com):** Novo tipo de notebook de dados criado para colaboração. Uso gratuito do plano Team.
+- **[PopSQL](https://popsql.com):** Editor SQL moderno e colaborativo. Assinatura Premium gratuita enquanto for estudante.
+- **[CARTO](https://carto.com):** Plataforma para análise e visualização de dados espaciais. Atualizações de conta e recursos premium gratuitos por 2 anos.
 
 ## 7. APIs e Ferramentas para Desenvolvedores
-- **Stripe:** Ganhe `$25` em créditos Stripe para compensar as taxas.
-- **Clerk:** Autenticação e gerenciamento de usuários. Plano Pro gratuito enquanto for estudante.
-- **Requestly:** Ferramenta para interceptar solicitações HTTP. Plano Professional (avaliado em `$270`) gratuito por um ano.
-- **ConfigCat:** Gerenciamento de feature flags. 1000 flags e usuários ilimitados gratuitamente.
-- **DevCycle:** Plataforma de gerenciamento de Feature Flags. 1 ano grátis no plano Starter.
-- **Blockchair:** APIs profissionais para conexão com blockchains. 100.000 solicitações gratuitas.
-- **Testmail:** Endereços de e-mail e caixas de correio ilimitadas. Plano Essential grátis.
-- **Termius:** Cliente SSH moderno. Acesso gratuito a todos os recursos do Termius Pro e Team.
+- **[Stripe](https://stripe.com):** Ganhe `$25` em créditos Stripe para compensar as taxas.
+- **[Clerk](https://clerk.com):** Autenticação e gerenciamento de usuários. Plano Pro gratuito enquanto for estudante.
+- **[Requestly](https://requestly.io):** Ferramenta para interceptar solicitações HTTP. Plano Professional (avaliado em `$270`) gratuito por um ano.
+- **[ConfigCat](https://configcat.com):** Gerenciamento de feature flags. 1000 flags e usuários ilimitados gratuitamente.
+- **[DevCycle](https://devcycle.com):** Plataforma de gerenciamento de Feature Flags. 1 ano grátis no plano Starter.
+- **[Blockchair](https://blockchair.com):** APIs profissionais para conexão com blockchains. 100.000 solicitações gratuitas.
+- **[Testmail](https://testmail.app):** Endereços de e-mail e caixas de correio ilimitadas. Plano Essential grátis.
+- **[Termius](https://termius.com):** Cliente SSH moderno. Acesso gratuito a todos os recursos do Termius Pro e Team.
 
 ## 8. Segurança, Monitoramento e Desempenho
-- **Sentry:** Rastreamento de erros. Estudantes têm 50 mil erros, 100 mil transações, limite de 1 ano (pode ser renovado).
-- **Datadog:** Monitoramento de infraestrutura em nuvem. Conta Pro (10 servidores) gratuita por 2 anos.
-- **New Relic:** Plataforma de observabilidade. Acesso gratuito (valor de `$300`/mês) enquanto estudante.
-- **AstraSecurity:** Suite de segurança para sites (firewall, scanner de malware). 6 meses grátis.
-- **Blackfire:** Ferramenta de medição de desempenho de código. Assinatura Developer gratuita.
-- **Doppler:** Gerenciamento de segredos e APIs. Assinatura Team gratuita enquanto estudante ativo.
-- **Honeybadger:** Monitoramento de exceções e tempo de atividade. Conta Small gratuita por 1 ano.
-- **CodeScene:** Analise a integridade do código e a dívida técnica. Conta gratuita de Estudante.
+- **[Sentry](https://sentry.io):** Rastreamento de erros. Estudantes têm 50 mil erros, 100 mil transações, limite de 1 ano (pode ser renovado).
+- **[Datadog](https://www.datadoghq.com):** Monitoramento de infraestrutura em nuvem. Conta Pro (10 servidores) gratuita por 2 anos.
+- **[New Relic](https://newrelic.com):** Plataforma de observabilidade. Acesso gratuito (valor de `$300`/mês) enquanto estudante.
+- **[AstraSecurity](https://www.getastra.com):** Suite de segurança para sites (firewall, scanner de malware). 6 meses grátis.
+- **[Blackfire](https://blackfire.io):** Ferramenta de medição de desempenho de código. Assinatura Developer gratuita.
+- **[Doppler](https://www.doppler.com):** Gerenciamento de segredos e APIs. Assinatura Team gratuita enquanto estudante ativo.
+- **[Honeybadger](https://www.honeybadger.io):** Monitoramento de exceções e tempo de atividade. Conta Small gratuita por 1 ano.
+- **[CodeScene](https://codescene.com):** Analise a integridade do código e a dívida técnica. Conta gratuita de Estudante.
 
 ## 9. Design, UI e Assets
-- **Icons8:** Assinatura gratuita de 3 meses (ícones, fotos, ilustrações e música).
-- **IconScout:** Marketplace de recursos de design. 60 ícones premium grátis por mês (1 ano).
-- **Visme:** Plataforma multifuncional para apresentações. 3 meses grátis no plano Starter.
-- **Polypane:** Navegador poderoso para desenvolvedores da Web. Plano individual grátis (1 ano).
-- **Themeisle:** 1 ano gratuito do tema WordPress Neve Agency.
-- **Octicons:** Biblioteca de ícones de código aberto criada para a interface do GitHub.
+- **[Icons8](https://icons8.com):** Assinatura gratuita de 3 meses (ícones, fotos, ilustrações e música).
+- **[IconScout](https://iconscout.com):** Marketplace de recursos de design. 60 ícones premium grátis por mês (1 ano).
+- **[Visme](https://www.visme.co):** Plataforma multifuncional para apresentações. 3 meses grátis no plano Starter.
+- **[Polypane](https://polypane.app):** Navegador poderoso para desenvolvedores da Web. Plano individual grátis (1 ano).
+- **[Themeisle](https://themeisle.com):** 1 ano gratuito do tema WordPress Neve Agency.
+- **[Octicons](https://primer.style/octicons):** Biblioteca de ícones de código aberto criada para a interface do GitHub.
 
 ## 10. Educação e Preparação para Entrevistas
-- **DataCamp:** Crie fluência de dados. 3 meses de acesso gratuito.
-- **Boot.dev:** Plataforma gamificada para backend e devops. 3 meses grátis.
-- **Codedex:** Aprenda a programar (Python, JS, React). 6 meses de assinatura premium do Codédex Club.
-- **Educative:** 6 meses grátis com mais de 70 cursos práticos interativos.
-- **FrontendMasters:** 6 meses de acesso gratuito a cursos detalhados de JavaScript e Node.js.
-- **Scrimba:** Plataforma interativa de aprendizagem de frontend. 1 mês de acesso grátis.
-- **AlgoExpert:** Recurso definitivo para se preparar para entrevistas. 20 perguntas grátis.
-- **InterviewCake:** Acesso ao curso de preparação de entrevistas de codificação (1 semana grátis).
-- **GoRails:** Tutoriais para desenvolvedores (Ruby, Rails, JS). Acesso gratuito aos vídeos por 12 meses.
-- **SymfonyCasts:** Domine Symfony e PHP. Assinatura de 3 meses grátis.
-- **Github Campus Experts:** Candidate-se para construir comunidades tecnológicas no campus.
-- **Microsoft Visual Studio Dev Essentials:** Ferramentas, nuvem e treinamento.
+- **[DataCamp](https://www.datacamp.com):** Crie fluência de dados. 3 meses de acesso gratuito.
+- **[Boot.dev](https://boot.dev):** Plataforma gamificada para backend e devops. 3 meses grátis.
+- **[Codedex](https://www.codedex.io):** Aprenda a programar (Python, JS, React). 6 meses de assinatura premium do Codédex Club.
+- **[Educative](https://www.educative.io):** 6 meses grátis com mais de 70 cursos práticos interativos.
+- **[FrontendMasters](https://frontendmasters.com):** 6 meses de acesso gratuito a cursos detalhados de JavaScript e Node.js.
+- **[Scrimba](https://scrimba.com):** Plataforma interativa de aprendizagem de frontend. 1 mês de acesso grátis.
+- **[AlgoExpert](https://www.algoexpert.io):** Recurso definitivo para se preparar para entrevistas. 20 perguntas grátis.
+- **[InterviewCake](https://www.interviewcake.com):** Acesso ao curso de preparação de entrevistas de codificação (1 semana grátis).
+- **[GoRails](https://gorails.com):** Tutoriais para desenvolvedores (Ruby, Rails, JS). Acesso gratuito aos vídeos por 12 meses.
+- **[SymfonyCasts](https://symfonycasts.com):** Domine Symfony e PHP. Assinatura de 3 meses grátis.
+- **[Github Campus Experts](https://education.github.com/experts):** Candidate-se para construir comunidades tecnológicas no campus.
+- **[Microsoft Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/):** Ferramentas, nuvem e treinamento.
 
 ## 11. Produtividade e Organização
-- **Microsoft 365:** Copilot AI, 1TB Cloud Storage e segurança (grátis ou com desconto).
-- **Notion:** Workspace para pensar, escrever e planejar. Plano Education (equivalente ao Plus) grátis.
-- **Notion Template Collection:** Modelos prontos para uso em hackathons e portfólios.
-- **1Password:** Gerenciador de senhas. 1 ano grátis incluindo Developer Tools.
-- **Dashlane:** Gerenciador de senhas. Dashlane Premium grátis por 6 meses.
-- **PomoDone:** Aumente a produtividade (técnica Pomodoro). Plano Lite grátis por 2 anos.
-- **HazeOver:** Foco ao trabalhar no Mac. Licença grátis de aplicativo.
-- **ToDiagram:** Editor de dados (JSON/YAML) para diagramas. Plano Pro (sem IA) grátis.
-- **Imgbot:** GitHub App que otimiza imagens automaticamente.
-- **DeepScan:** Plataforma de aplicativos JavaScript confiáveis. Avaliação grátis de 6 meses.
-- **SimpleAnalytics:** Análise voltada para a privacidade. Plano Starter grátis (1 ano).
-- **POEditor:** Plataforma de gerenciamento de localização. Plano Plus grátis por 1 ano.
-- **Appfigures:** Análise e otimização da App Store. Acesso gratuito por 1 ano.
+- **[Microsoft 365](https://www.microsoft.com/microsoft-365):** Copilot AI, 1TB Cloud Storage e segurança (grátis ou com desconto).
+- **[Notion](https://www.notion.so):** Workspace para pensar, escrever e planejar. Plano Education (equivalente ao Plus) grátis.
+- **[Notion Template Collection](https://www.notion.so/help/guides/notion-for-education):** Modelos prontos para uso em hackathons e portfólios.
+- **[1Password](https://1password.com):** Gerenciador de senhas. 1 ano grátis incluindo Developer Tools.
+- **[Dashlane](https://www.dashlane.com):** Gerenciador de senhas. Dashlane Premium grátis por 6 meses.
+- **[PomoDone](https://pomodoneapp.com):** Aumente a produtividade (técnica Pomodoro). Plano Lite grátis por 2 anos.
+- **[HazeOver](https://hazeover.com):** Foco ao trabalhar no Mac. Licença grátis de aplicativo.
+- **[ToDiagram](https://todiagram.com):** Editor de dados (JSON/YAML) para diagramas. Plano Pro (sem IA) grátis.
+- **[Imgbot](https://imgbot.net):** GitHub App que otimiza imagens automaticamente.
+- **[DeepScan](https://deepscan.io):** Plataforma de aplicativos JavaScript confiáveis. Avaliação grátis de 6 meses.
+- **[SimpleAnalytics](https://simpleanalytics.com):** Análise voltada para a privacidade. Plano Starter grátis (1 ano).
+- **[POEditor](https://poeditor.com):** Plataforma de gerenciamento de localização. Plano Plus grátis por 1 ano.
+- **[Appfigures](https://appfigures.com):** Análise e otimização da App Store. Acesso gratuito por 1 ano.
 
 ## 12. Inteligência Artificial e Machine Learning
-- **Camber:** AI agentic para ciência de dados. Plano Estudante: 40 horas CPU, 5 horas GPU, 50 GB.
+- **[Camber](https://cambercloud.com):** AI agentic para ciência de dados. Plano Estudante: 40 horas CPU, 5 horas GPU, 50 GB.
 
 ## 13. Hardware e IoT
-- **Arduino:** Programas STEM criativos. Arduino Cloud grátis por 6 meses e descontos.
-- **Adafruit:** Empresa de hardware de código aberto. 1 ano de Adafruit IO+ e descontos.
+- **[Arduino](https://www.arduino.cc):** Programas STEM criativos. Arduino Cloud grátis por 6 meses e descontos.
+- **[Adafruit](https://www.adafruit.com):** Empresa de hardware de código aberto. 1 ano de Adafruit IO+ e descontos.
 
 ---
 
