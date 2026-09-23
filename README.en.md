@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/QUINTANA.DEV-1E1E2E?style=for-the-badge&logo=github&logoColor=white" alt="QUINTANA.DEV" />
+  <a href="https://quintana.dev.ar"><img src="https://img.shields.io/badge/QUINTANA.DEV-1E1E2E?style=for-the-badge&logo=github&logoColor=white" alt="QUINTANA.DEV" /></a>
   <h1>🚀 Ultimate Guide: GitHub Student Developer Pack & GitHub Pro (2026)</h1>
   <p><i>Learn how to claim, configure, and maximize all free benefits valued at tens of thousands of dollars for students. The complete catalog!</i></p>
   
