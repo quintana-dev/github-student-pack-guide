@@ -1,19 +1,19 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/QUINTANA.DEV-1E1E2E?style=for-the-badge&logo=github&logoColor=white" alt="QUINTANA.DEV" />
-  <h1>ðŸš€ Ultimate Guide: GitHub Student Developer Pack & GitHub Pro (2026)</h1>
+  <h1>🚀 Ultimate Guide: GitHub Student Developer Pack & GitHub Pro (2026)</h1>
   <p><i>Learn how to claim, configure, and maximize all free benefits valued at tens of thousands of dollars for students. The complete catalog!</i></p>
   
   <p>
     <b>Idiomas / Languages:</b><br>
-    <a href="README.md">ðŸ‡ªðŸ‡¸ EspaÃ±ol</a> &nbsp;|&nbsp; 
-    <a href="README.en.md">ðŸ‡¬ðŸ‡§ English</a> &nbsp;|&nbsp; 
-    <a href="README.pt.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
+    <a href="README.md">🇪🇸 Español</a> &nbsp;|&nbsp; 
+    <a href="README.en.md">🇬🇧 English</a> &nbsp;|&nbsp; 
+    <a href="README.pt.md">🇧🇷 Português</a>
   </p>
 </div>
 
 ---
 
-## ðŸ“– Table of Contents
+## 📖 Table of Contents
 1. [What is the GitHub Student Developer Pack?](#1-what-is-the-github-student-developer-pack)
 2. [GitHub and Git Tools](#2-github-and-git-tools)
 3. [Cloud, Hosting & Infrastructure](#3-cloud-hosting--infrastructure)
@@ -52,19 +52,19 @@ Any student aged 13+ enrolled in a degree or diploma-granting course of study (h
 - **Codecov:** Tool to easily implement code coverage. Free access on public and private repositories.
 
 ## 3. Cloud, Hosting & Infrastructure
-- **Microsoft Azure:** Free access to 25+ cloud services plus $100 in Azure credit. For students aged 18+.
+- **Microsoft Azure:** Free access to 25+ cloud services plus `$100` in Azure credit. For students aged 18+.
 - **Microsoft Azure (ages 13-17):** Access to selected services like App Services, Functions, MySQL, and DevOps with no credit card required.
-- **Heroku:** Flexible, easy-to-use platform to deploy apps. Enjoy a credit of $13 USD per month for 24 months.
-- **Appwrite:** Open-source backend infrastructure platform. Free access to the Education plan (equivalent resource limits as Appwrite Pro, worth $40/month).
+- **Heroku:** Flexible, easy-to-use platform to deploy apps. Enjoy a credit of `$13` USD per month for 24 months.
+- **Appwrite:** Open-source backend infrastructure platform. Free access to the Education plan (equivalent resource limits as Appwrite Pro, worth `$40`/month).
 - **LocalStack:** Emulates AWS services right on your laptop. Free license to a ready-to-use cloud environment.
 - **Pageclip:** Server for static websites and HTML forms. Free basic plan while you are a student.
 - **Travis CI:** Continuous integration platform. Private builds for free while you're a student.
 - **Zyte:** Cloud platform for web crawlers (Scrapy). 1 Free Forever Scrapy Cloud Unit with 120-day data retention.
 
 ## 4. Domains and Web Presence
-- **Namecheap:** 1 year domain name registration on the .me TLD, plus 1 SSL certificate free for 1 year.
-- **Name.com:** Build your project on a select free domain (e.g., .live, .software, .dev) plus Advanced Security.
-- **.TECH:** One standard .TECH domain free for 1 year to convey that you belong to the tech industry.
+- **Namecheap:** 1 year domain name registration on the `.me` TLD, plus 1 SSL certificate free for 1 year.
+- **Name.com:** Build your project on a select free domain (e.g., `.live`, `.software`, `.dev`) plus Advanced Security.
+- **.TECH:** One standard `.TECH` domain free for 1 year to convey that you belong to the tech industry.
 
 ## 5. IDEs and Code Editors
 - **JetBrains:** A free educational subscription for **all** professional desktop IDEs (IntelliJ IDEA, PyCharm, WebStorm, etc.), to be renewed annually.
@@ -74,15 +74,15 @@ Any student aged 13+ enrolled in a degree or diploma-granting course of study (h
 - **SQLGate:** Simple but powerful IDE for multiple SQL databases. Access to Standard Subscription for 1 year.
 
 ## 6. Databases and Data Analysis
-- **MongoDB:** $50 in MongoDB Atlas Credits, plus access to Compass and MongoDB University (including free certification valued at $150).
+- **MongoDB:** `$50` in MongoDB Atlas Credits, plus access to Compass and MongoDB University (including free certification valued at `$150`).
 - **Deepnote:** A new kind of data notebook built for collaboration (Jupyter compatible). Free use of the Team plan.
 - **PopSQL:** Modern, collaborative SQL editor. Free Premium subscription while you're a student.
 - **CARTO:** Platform for spatial data analysis and visualization. Free account upgrades and premium features for 2 years.
 
 ## 7. APIs and Developer Tools
-- **Stripe:** Get $25 in Stripe credits to offset fees on payments and billing.
+- **Stripe:** Get `$25` in Stripe credits to offset fees on payments and billing.
 - **Clerk:** Auth and user management for SaaS. Free Pro plan while you're a student.
-- **Requestly:** Tool to intercept and mock HTTP requests. Professional plan (worth $270) free for one year.
+- **Requestly:** Tool to intercept and mock HTTP requests. Professional plan (worth `$270`) free for one year.
 - **ConfigCat:** Feature flag management. 1000 feature flags, unlimited users for free.
 - **DevCycle:** Feature Flag Management platform. 1 Free Year on the Starter Plan (unlimited seats and flags).
 - **Blockchair:** Professional APIs to connect to blockchains. 100,000 free requests.
@@ -92,7 +92,7 @@ Any student aged 13+ enrolled in a degree or diploma-granting course of study (h
 ## 8. Security, Monitoring & Performance
 - **Sentry:** Track errors. Students enjoy: 50K errors, 100K transactions, Team features, and more. 1 yr limit (renewable).
 - **Datadog:** Cloud-based infrastructure monitoring. Pro Account, including 10 servers, free for 2 years.
-- **New Relic:** Observability platform. Free New Relic access ($300/month value) while you are a student.
+- **New Relic:** Observability platform. Free New Relic access (`$300`/month value) while you are a student.
 - **AstraSecurity:** Website security suite (firewall, malware scanner). 6-month access.
 - **Blackfire:** Code performance measurement tool. Free Developer subscription.
 - **Doppler:** Secret management (keys/APIs). Free Team subscription while an active student.
@@ -110,7 +110,7 @@ Any student aged 13+ enrolled in a degree or diploma-granting course of study (h
 ## 10. Education and Interview Prep
 - **DataCamp:** Build data fluency. 3 months of free access.
 - **Boot.dev:** Game-like learning platform for backend and devops. 3 months of free access to the complete membership.
-- **Codedex:** Learn-to-code platform for Gen Z (Python, JS, React). 6 months of CodÃ©dex Club premium membership free.
+- **Codedex:** Learn-to-code platform for Gen Z (Python, JS, React). 6 months of Codédex Club premium membership free.
 - **Educative:** 6 months of free access to over 70 practical courses with browser-based Playgrounds.
 - **FrontendMasters:** Free 6-months access to in-depth JavaScript, Node.js & front-end courses.
 - **Scrimba:** Interactive frontend learning platform. 1 month of free full access to Pro courses.
@@ -150,14 +150,14 @@ Any student aged 13+ enrolled in a degree or diploma-granting course of study (h
 1. Go to **[GitHub Education Pack](https://education.github.com/pack)**.
 2. Sign in with your GitHub account.
 3. Click on **"Get student benefits"**.
-4. Add and verify your institutional university/school email address (the one ending in .edu or similar). If you don't have one, you will be asked to upload a photo of your student ID, transcript, or acceptance letter.
+4. Add and verify your institutional university/school email address (the one ending in `.edu` or similar). If you don't have one, you will be asked to upload a photo of your student ID, transcript, or acceptance letter.
 5. Wait a few days for verification.
 6. Once approved, you can enter the **[GitHub Education Offers](https://education.github.com/pack/offers)** portal to claim each tool.
 
 ---
 
 <div align="center">
-  <b>Made with ðŸ©µ by <a href="https://quintana.dev.ar">QUINTANA.DEV</a></b>
+  <b>Made with 🩵 by <a href="https://quintana.dev.ar">QUINTANA.DEV</a></b>
   <br><br>
-  <i>This repository serves as an open guide to the community. If you found it useful, please consider leaving a star (â­)!</i>
+  <i>This repository serves as an open guide to the community. If you found it useful, please consider leaving a star (⭐)!</i>
 </div>
